@@ -1,6 +1,6 @@
 class Dog 
 end 
 
-Fido = Dog.new 
-Duque = Dog.new 
-Hank = Dog.new 
+fido = Dog.new 
+lassie = Dog.new 
+snoopie = Dog.new 
